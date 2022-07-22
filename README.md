@@ -1,1 +1,1 @@
-# DBMS_Project
+# Database management system project
